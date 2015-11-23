@@ -1,4 +1,4 @@
-# Ractive.js ractive-decorators-bootstrapswitch decorator plugin
+# Ractive.js ractive-decorators-bootstrapSwitch decorator plugin
 
 *Find more Ractive.js plugins at [docs.ractivejs.org/latest/plugins](http://docs.ractivejs.org/latest/plugins)*
 
@@ -10,14 +10,14 @@ Include this file on your page below Ractive, e.g:
 
 ```html
 <script src='lib/ractive.js'></script>
-<script src='lib/ractive-decorators-ractive-decorators-bootstrapswitch.js'></script>
+<script src='lib/ractive-decorators-bootstrapSwitch.js'></script>
 ```
 
 Or, if you're using a module loader, require this module:
 
 ```js
 // requiring the plugin will 'activate' it - no need to use the return value
-require( 'ractive-decorators-ractive-decorators-bootstrapswitch' );
+require( 'ractive-decorators-bootstrapSwitch' );
 ```
 
 **plugin-specific instructions to go here...**

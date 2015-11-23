@@ -1,8 +1,8 @@
 {
-	"name": "ractive-decorators-ractive-decorators-bootstrapswitch",
+	"name": "ractive-decorators-bootstrapSwitch",
 	"version": "0.1.0",
 	"author": "Boberro",
-	"main": "ractive-decorators-ractive-decorators-bootstrapswitch.js",
+	"main": "ractive-decorators-bootstrapSwitch.js",
 	"dependencies": {
 		"ractive": "^0.5.4"
 	},

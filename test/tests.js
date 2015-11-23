@@ -1,4 +1,4 @@
-// ractive-decorators-ractive-decorators-bootstrapswitch tests
+// ractive-decorators-bootstrapSwitch tests
 // =====================================================
 
 (function () {
