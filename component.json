@@ -1,0 +1,16 @@
+{
+	"name": "ractive-decorators-ractive-decorators-bootstrapswitch",
+	"repo": "git://github.com/boberro/ractive-decorators-bootstrapswitch.git",
+	"description": "ractive-decorators-ractive-decorators-bootstrapswitch",
+	"version": "0.1.0",
+	"keywords": [],
+	"dependencies": {
+		"ractivejs/ractive": "^0.5.4"
+	},
+	"development": {},
+	"license": "MIT",
+	"main": "ractive-decorators-ractive-decorators-bootstrapswitch.js",
+	"scripts": [
+		"ractive-decorators-ractive-decorators-bootstrapswitch.js"
+	]
+}
